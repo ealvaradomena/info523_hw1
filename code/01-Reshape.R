@@ -2,6 +2,8 @@
 # install.packages("reshape2")
 # library(reshape2)
 
+#### HI, PROFESSOR! I'M DOING MY HOMEWORK!
+
 ## Tidy data
 
 # Values in column names 
